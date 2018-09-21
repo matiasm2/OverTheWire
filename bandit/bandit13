@@ -1,0 +1,3 @@
+xxd -r data.txt | gzip -d | bzip2 -d | gzip -d | tar -xO | tar -xO | bzip2 -d | tar -xO | gzip -d
+
+The password is 8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL

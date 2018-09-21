@@ -1,0 +1,8 @@
+strings data.txt | grep ^==
+
+#^ -> denotes the beginning of a string
+
+========== the
+========== passwordh
+========== truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk
+
