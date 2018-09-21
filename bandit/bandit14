@@ -1,0 +1,9 @@
+ssh -i ~/sshkey.private bandit14@127.0.0.1 'cat /etc/bandit_pass/bandit14'
+Could not create directory '/home/bandit13/.ssh'.
+The authenticity of host '127.0.0.1 (127.0.0.1)' can't be established.
+ECDSA key fingerprint is SHA256:98UL0ZWr85496EtCRkKlo20X3OPnyPSB5tB5RPbhczc.
+Are you sure you want to continue connecting (yes/no)? yes
+Failed to add the host to the list of known hosts (/home/bandit13/.ssh/known_hosts).
+This is a OverTheWire game server. More information on http://www.overthewire.org/wargames
+
+4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e
